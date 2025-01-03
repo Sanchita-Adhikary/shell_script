@@ -1,5 +1,9 @@
 1. Shell: A shell is a computer program called a command-line interpreter that acts as an interface between a user and Linux operating system.
-   
+
+   ![image](https://github.com/user-attachments/assets/0ef57fa2-f115-4e6b-8f0e-7eccd9ba144a)
+
+
+
 2. Shell scripts : As a shell can also take commands as input from file, we can write these commands in a file and can execute them in shell to avoid this repetitive work. These files are called Shell Scripts or Shell Programs.
    
 3. SheBang (#!) - A shebang is a character sequence that appears at the beginning of a script. The shebang is followed by the interpreter or command that should be used to execute the script.
